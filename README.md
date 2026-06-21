@@ -34,10 +34,6 @@ This project builds a complete RAG pipeline that:
 
 ![Home](images/home_page.png)
 
-### Property Query Response
-
-![Prediction](images/query_response.png)
-
 ---
 
 ## 🚀 Features
